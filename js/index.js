@@ -1,0 +1,1 @@
+window.onload=function(){var n=document.getElementsByTagName("h1")[0];console.log(n),n.onclick=function(){alert(1111)}};
